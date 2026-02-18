@@ -1,5 +1,4 @@
----
-
+  
 # 📌 Assignment 2
 
 ## Hybrid Collaborative Filtering with Triple Gradient Boosting Ensemble
@@ -7,7 +6,6 @@
 **Bayesian Statistics + SVD (Latent Factors) + Interaction Features**
 **XGBoost + LightGBM + CatBoost Ensemble**
 
----
 
 # 📖 Project Overview
 
